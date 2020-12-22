@@ -1,3 +1,3 @@
 
 current_time = Time.now.to_i
-current_time.to_i 
+puts current_time
