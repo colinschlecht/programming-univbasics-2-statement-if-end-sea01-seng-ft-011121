@@ -1,3 +1,7 @@
 
 current_time = Time.now.to_i
-puts current_time
+if true 
+  puts "Even!"
+else 
+  puts "Odd!"
+end
