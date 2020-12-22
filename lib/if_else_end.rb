@@ -1,1 +1,1 @@
-Time.now 
+puts Time.now 
